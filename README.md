@@ -1,1 +1,3 @@
 # S2I-Conversion-Results
+
+Here you will find additional inputs and outputs to my thesis "The Application of Generative AI for Sketch-to-Image Conversion" (link coming soon). Each directory holds the input and output images as well as an "outputs.md" file. This is where you will find tables of the inputs and outputs along with reference images. If you have any questions, please feel free to reach out at jeremy@kozlowski.com.
