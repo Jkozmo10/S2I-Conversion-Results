@@ -22,7 +22,7 @@
 | <img src="./sketches/997_sketch.png"/> | a real-life image of a black male with black hair | <img src="./reference_images/997.png"/>  |  <img src="./output_images/997_output.png" />   |
 | <img src="./sketches/celeb_1_sketch.png"/> | a real-life image of a white woman with blonde hair | <img src="./reference_images/celeb_1.jpg"/>  |  <img src="./output_images/celeb_1_output.png" />   |
 
-Here is an example of multiple generations from a single sketch. In this case, the sketch was used in a real police investigation.
+Here is an example of multiple generations from the same sketch using the same inputs. In this case, the sketch was used in a real police investigation.
 
 
 | Sketch     | Text Description      | Reference Image      | Output Image |
