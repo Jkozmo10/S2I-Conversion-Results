@@ -21,3 +21,19 @@
 | <img src="./sketches/909_sketch.png"/> | a real-life image of a white male with gray or partially gray hair | <img src="./reference_images/909.png"/>  |  <img src="./output_images/909_output.png" />   |
 | <img src="./sketches/997_sketch.png"/> | a real-life image of a black male with black hair | <img src="./reference_images/997.png"/>  |  <img src="./output_images/997_output.png" />   |
 | <img src="./sketches/celeb_1_sketch.png"/> | a real-life image of a white woman with blonde hair | <img src="./reference_images/celeb_1.jpg"/>  |  <img src="./output_images/celeb_1_output.png" />   |
+
+Here is an example of multiple generations from a single sketch. In this case, the sketch was used in a real police investigation.
+
+
+| Sketch     | Text Description      | Reference Image      | Output Image |
+|---------------|---------------|---------------| --------------- |
+| <img src="./sketches/police_sketch_input.png"/> | a real-life image of a white woman with blonde hair, 4k, high quality | <img src="./reference_images/police_sketch_input_real.png"/>  |  <img src="./output_images/0_police_sketch_output.png" />   |
+| <img src="./sketches/police_sketch_input.png"/> | a real-life image of a white woman with blonde hair, 4k, high quality | <img src="./reference_images/police_sketch_input_real.png"/>  |  <img src="./output_images/1_police_sketch_output.png" />   |
+| <img src="./sketches/police_sketch_input.png"/> | a real-life image of a white woman with blonde hair, 4k, high quality | <img src="./reference_images/police_sketch_input_real.png"/>  |  <img src="./output_images/2_police_sketch_output.png" />   |
+| <img src="./sketches/police_sketch_input.png"/> | a real-life image of a white woman with blonde hair, 4k, high quality | <img src="./reference_images/police_sketch_input_real.png"/>  |  <img src="./output_images/3_police_sketch_output.png" />   |
+| <img src="./sketches/police_sketch_input.png"/> | a real-life image of a white woman with blonde hair, 4k, high quality | <img src="./reference_images/police_sketch_input_real.png"/>  |  <img src="./output_images/4_police_sketch_output.png" />   |
+| <img src="./sketches/police_sketch_input.png"/> | a real-life image of a white woman with blonde hair, 4k, high quality | <img src="./reference_images/police_sketch_input_real.png"/>  |  <img src="./output_images/5_police_sketch_output.png" />   |
+| <img src="./sketches/police_sketch_input.png"/> | a real-life image of a white woman with blonde hair, 4k, high quality | <img src="./reference_images/police_sketch_input_real.png"/>  |  <img src="./output_images/6_police_sketch_output.png" />   |
+| <img src="./sketches/police_sketch_input.png"/> | a real-life image of a white woman with blonde hair, 4k, high quality | <img src="./reference_images/police_sketch_input_real.png"/>  |  <img src="./output_images/7_police_sketch_output.png" />   |
+| <img src="./sketches/police_sketch_input.png"/> | a real-life image of a white woman with blonde hair, 4k, high quality | <img src="./reference_images/police_sketch_input_real.png"/>  |  <img src="./output_images/8_police_sketch_output.png" />   |
+| <img src="./sketches/police_sketch_input.png"/> | a real-life image of a white woman with blonde hair, 4k, high quality | <img src="./reference_images/police_sketch_input_real.png"/>  |  <img src="./output_images/9_police_sketch_output.png" />   |
